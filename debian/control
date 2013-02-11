@@ -1,0 +1,13 @@
+Source: turtlebot-desktop-groovy
+Section: x11
+Priority: optional
+Maintainer: I Heart Engineering <code@iheartengineering.com>
+Build-Depends: debhelper (>= 5), cdbs
+Standards-Version: 3.9.3
+
+Package: turtlebot-desktop-groovy
+Architecture: any
+Depends: ${misc:Depends}, turtlebot-ros, ros-system-workstation
+Provides: turtlebot-desktop-groovy
+Description: TurtleBot Desktop Environment
+ This provides gui tools for operating a TurtleBot.
