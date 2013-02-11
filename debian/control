@@ -7,7 +7,7 @@ Standards-Version: 3.9.3
 
 Package: turtlebot-desktop-groovy
 Architecture: any
-Depends: ${misc:Depends}, turtlebot-ros, ros-system-workstation
+Depends: ${misc:Depends}, turtlebot-ros-groovy, ros-system-workstation-groovy
 Provides: turtlebot-desktop-groovy
 Description: TurtleBot Desktop Environment
  This provides gui tools for operating a TurtleBot.
