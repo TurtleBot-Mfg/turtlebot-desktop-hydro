@@ -1,13 +1,13 @@
-Source: turtlebot-desktop-groovy
+Source: turtlebot-desktop-hydro
 Section: x11
 Priority: optional
-Maintainer: I Heart Engineering <code@iheartengineering.com>
+Maintainer: NE Automation <code@neautomation.com>
 Build-Depends: debhelper (>= 5), cdbs
 Standards-Version: 3.9.3
 
-Package: turtlebot-desktop-groovy
+Package: turtlebot-desktop-hydro
 Architecture: any
-Depends: ${misc:Depends}, turtlebot-ros-groovy, ros-system-workstation-groovy
-Provides: turtlebot-desktop-groovy
+Depends: ${misc:Depends}, turtlebot-ros-hydro, ros-system-workstation-hydro
+Provides: turtlebot-desktop-hydro
 Description: TurtleBot Desktop Environment
  This provides gui tools for operating a TurtleBot.

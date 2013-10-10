@@ -1,4 +1,10 @@
-turtlebot-desktop-groovy (0.0.5) precise; urgency=low
+turtlebot-desktop-hydro (0.0.6) precise; urgency=low
+
+  * fixed control dep
+
+ -- I Heart Engineering <code@iheartengineering.com>  Mon, 11 Feb 2013 06:14:56 -0500
+
+turtlebot-desktop-hydro (0.0.5) precise; urgency=low
 
   * Forked from Fuerte and initial updates for groovy
 
